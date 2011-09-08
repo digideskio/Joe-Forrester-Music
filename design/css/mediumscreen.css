@@ -1,0 +1,6 @@
+body{padding-top: 185px;}
+.header .m1,
+.header .player{float: none; width: auto; position: relative; top:auto; left: auto; right: auto; clear: both; height: auto;}
+.header .m1{overflow: auto;}
+
+.header .player .moar{margin-top: 2px;}
